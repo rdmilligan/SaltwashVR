@@ -1,3 +1,3 @@
 # SaltwashVR
 
-Saltwash VR is a virtual world on stereoscopic video, built with OpenGL.
+Saltwash VR is a virtual world in the browser, built with A-Frame.
