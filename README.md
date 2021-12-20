@@ -1,3 +1,3 @@
 # SaltwashVR
 
-Saltwash VR is a virtual world in the browser, built with A-Frame.
+Saltwash VR is a virtual world on a web page, built with A-Frame.
