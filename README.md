@@ -4,4 +4,4 @@
 
 Saltwash VR is a virtual world on a web page, built with A-Frame.
 
-![SaltwashVR](https://rdmilligan.files.wordpress.com/2021/12/saltwashvr_stereoscopic_06_videofirefox_aframe_prototype.png "Saltwash VR")
+![SaltwashVR](https://rdmilligan.files.wordpress.com/2021/12/saltwashvr_stereoscopic_06_videofirefox_aframe.png "Saltwash VR")
